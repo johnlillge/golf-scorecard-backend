@@ -1,0 +1,1 @@
+web: gunicorn scorecard_api.wsgi
