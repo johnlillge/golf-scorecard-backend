@@ -1,0 +1,5 @@
+db_schema.png
+db_schema_original.png
+venv/
+__pycache__
+*.py[cod]
